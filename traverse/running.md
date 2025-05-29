@@ -1,25 +1,31 @@
+---
+id: running
+title: Running
+category: traverse
+equipment: []
+difficulty: variable
+duration: variable
+tags: [cardio, legs, endurance, modular]
+version: 1.0
+measure: [distance, 1000m]
+---
+
 # Traverse: Running
 
-Running is the default method of moving between MOFR stations.
+Running is a simple and effective method of moving between stations in a MOFR event. It provides a scalable cardio challenge and integrates easily into outdoor or indoor setups.
 
-## Standard Distance
+## Setup
 
-- **1 km** between each station
-- Total: 8 km over 8 rounds
+- The route should be clearly marked and safe for participants.
+- Surfaces should be stable and free of obstacles.
+- The total distance is specified in the header.
 
-## Course Options
+## Rules
 
-- Out-and-back loops
-- Track circuits
-- Park paths
-- Indoor treadmills (if necessary)
+- Participants must cover the full distance as specified in the header.
+- Any running style is permitted (e.g., jogging, sprinting), but walking or resting adds to the total time.
+- Cutting or shortening the route results in disqualification.
 
-## Timing
+## Scaling
 
-- Running segments are timed as part of the total workout
-- No mandatory rest periods between runs or stations
-
-## Variations
-
-You may substitute other traverse methods (e.g., cycling, rowing, rucking) depending on event goals. These should be defined in `/traverse/` as alternatives.
-
+- Distances can be adjusted for youth events, scaled formats, or adaptive athletes.
